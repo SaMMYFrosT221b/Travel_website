@@ -2,7 +2,8 @@
 
 Welcome to WanderWise Adventures – Your Companion on Every Journey!
 
-![WanderWise Logo](path/to/your/logo.png)
+![Home Page](https://github.com/SaMMYFrosT221b/Travel_website/assets/64640663/6cada7cf-e38e-431d-9d67-f25ec821910b)
+
 
 ## Overview
 
